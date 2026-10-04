@@ -11,8 +11,8 @@ Here is the summary dashboard:
 
 The project was created using a free version of 
 Tableau Desktop and can not be published on Tableau Public. 
-Thus, one  needs to clone the repository to be able to see 
-all the included Tableau features, such as filters, etc.
+Thus, one  needs to clone the repository to be able to use 
+interactive Tableau features, such as filters, etc.
 
 
 The full story can be found in dashboards/story.pdf
